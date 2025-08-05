@@ -12,6 +12,5 @@ You can click the Preview link to take a look at your changes.
 --->
 
 
-git add README.md
-git commit -m "Update readme with awareness section ✍️"
-git push
+
+"Update readme with awareness section ✍️"
